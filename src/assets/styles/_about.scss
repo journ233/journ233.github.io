@@ -1,0 +1,23 @@
+.about {
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1rem;
+  }
+
+  th {
+    text-align: left;
+    color: #fff;
+    background-color: #397375;
+  }
+  th, td {
+    padding: 3px 5px;
+    border: 0.5px solid #397375;
+  }
+
+  td:first-child {
+    font-weight: bold;
+    width: 110px;
+  }
+}
