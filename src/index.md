@@ -35,13 +35,13 @@ We will make adjustments to the class schedule depending on students' progress a
 
 ###	August 28
 #### Lecture: Variables, how to use Jupyter, first Python functions
-- [Preliminary lecture slides](assets/static/slides0828_preliminary.pdf) {# | [Recording](https://bcourses.berkeley.edu/courses/1512503/external_tools/78985) #}
+- [Lecture slides](assets/static/slides0828.pdf) | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985)
 - Install [Jupyter Desktop](https://github.com/jupyterlab/jupyterlab-desktop#installation)
 - In-class download (to open in Jupyter Desktop): [lecture0828.ipynb](assets/static/lecture0828.ipynb)
 
 #### Homework
 - [Homework 0828](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442758) due Sept. 9 at 11:59 pm.
-  - Optional: [Codecademy: Hello World](https://www.codecademy.com/learn/learn-python-3)
+  - Optional suggested exercises (not graded): [Codecademy: Hello World](https://www.codecademy.com/learn/learn-python-3)
 - [Homework 0904](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442759) due Sept. 9 at 11:59 pm. This is entirely extra credit!
 
 #### Reading
