@@ -64,16 +64,17 @@ We will make adjustments to the class schedule depending on students' progress a
 
 ###	September 11
 #### Lecture: Operators, variable types, functions
-{#
 
-- [Lecture slides](assets/static/slides0912.pdf)
-- [Lecture recording on bCourses](https://bcourses.berkeley.edu/courses/1512503/external_tools/78985)
+- [Preliminary lecture slides](assets/static/slides0911_prelim.pdf)
+- In-class download (to open in Jupyter Desktop): [lecture0911.ipynb](assets/static/lecture0911.ipynb)
 
 #### Homework
-- [Homework 0912 in bCourses](https://bcourses.berkeley.edu/courses/1512503/quizzes/2409870) due Sept. 17.
-- [File-naming and structure](https://libguides.princeton.edu/c.php?g=102546&p=930626)
-#}
+- [Homework 0911 in bCourses](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442760) due Sept. 16.
 
+{#
+- [Lecture recording on bCourses](https://bcourses.berkeley.edu/courses/1512503/external_tools/78985)
+
+#}
 
 </section>
 
