@@ -65,39 +65,24 @@ We will make adjustments to the class schedule depending on students' progress a
 ###	September 11
 #### Lecture: Operators, variable types, functions
 
-- [Preliminary lecture slides](assets/static/slides0911_prelim.pdf)
+- [Lecture slides](assets/static/slides0911.pdf) | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985)
 - In-class download (to open in Jupyter Desktop): [lecture0911.ipynb](assets/static/lecture0911.ipynb)
 
 #### Homework
 - [Homework 0911 in bCourses](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442760) due Sept. 16.
 
-{#
-- [Lecture recording on bCourses](https://bcourses.berkeley.edu/courses/1512503/external_tools/78985)
-
-#}
 
 </section>
 
 <section class="lecture" data-date="2023-09-18">
 
 ###	September 18
-#### Lecture: Lambda functions, control flow (conditionals, loops)
+#### Lecture: Lambda functions, basic data structures
 
-{# 
-
-- [Lecture slides](assets/static/slides0919.pdf)
-- [Lecture recording on bCourses](https://bcourses.berkeley.edu/courses/1512503/external_tools/78985)
+- [Preliminary slides](assets/static/slides0918_prelim.pdf)
 
 #### Homework
-- [Homework 0919 in bCourses](https://bcourses.berkeley.edu/courses/1512503/quizzes/2410492/) due Sept. 24.
-
-#### Reading
-This will be hard! But persevere. You do not need to do this reading to complete Homework 0919, but it will be helpful for you to review some of these concepts right now and/or get ahead for next week.
-- [Python tutorial introduction](https://docs.python.org/3/tutorial/introduction.html). New thing to read about before next week's class: `3.1.3 Lists`
-- [Python tutorial: Control Flow](https://docs.python.org/3/tutorial/controlflow.html). Some new things that we didn't cover in class, like `continue`, `break`, `match`, etc.
-- Optional (to get ahead of next week's class): [Python tutorial: Data Structures](https://docs.python.org/3/tutorial/datastructures.html)
-
-#}
+- [Homework 0918 in bCourses](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442763) due Sept. 23.
 
 
 </section>
@@ -105,7 +90,7 @@ This will be hard! But persevere. You do not need to do this reading to complete
 <section class="lecture" data-date="2023-09-25">
 
 ###	September 25
-#### Lecture: Errors, basic data structures
+#### Lecture: Errors, control flow
 - Remote lecture (Zoom link TBA)
 
 
