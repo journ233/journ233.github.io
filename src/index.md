@@ -79,11 +79,10 @@ We will make adjustments to the class schedule depending on students' progress a
 ###	September 18
 #### Lecture: Lambda functions, basic data structures
 
-- [Preliminary slides](assets/static/slides0918_prelim.pdf)
+- [Lecture slides](assets/static/slides0918.pdf) | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985)
 
 #### Homework
 - [Homework 0918 in bCourses](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442763) due Sept. 23.
-
 
 </section>
 
