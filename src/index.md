@@ -89,25 +89,25 @@ We will make adjustments to the class schedule depending on students' progress a
 <section class="lecture" data-date="2023-09-25">
 
 ###	September 25
-#### Lecture: Errors, control flow
-- Remote lecture (Zoom link TBA)
+#### Lecture: Control flow
 
-
-{#
-- [Lecture slides](assets/static/slides0926.pdf)
-- [Magic sync button](sync/)
-- [Lecture recording on bCourses](https://bcourses.berkeley.edu/courses/1512503/external_tools/78985)
+- Remote lecture (Check Slack for Zoom link)
+- [Preliminary slides](assets/static/slides0925_prelim.pdf)
 
 #### Homework
-- [Homework 0926 in bCourses](https://bcourses.berkeley.edu/courses/1512503/quizzes/2411076) due Oct. 1.
+- [Homework 0925 in bCourses](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442761) due Sept. 30.
+- Optional: [Codecademy](https://www.codecademy.com/learn/learn-python-3/): Click to the `Syllabus` tab and complete `Hello World`, `Control Flow`, `Lists`, `Loops`, `Functions`, `Code Challenges`, `Strings`, and `Dictionaries`. You can skip `Modules` for now. 
+
+{#
+
+- [Magic sync button](sync/)
+- [Lecture recording on bCourses](https://bcourses.berkeley.edu/courses/1512503/external_tools/78985)
 
 #### Reading
 - Read [5.3. Tuples and Sequences](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
 - Optional
   - The mandatory reading is on the tuples section (specifically 5.3). But the entirety of [Section 5](https://docs.python.org/3/tutorial/datastructures.html) covers what we learned in this week's lecture, so it could be good to review. 
   - Python's [built-in methods for various types](https://docs.python.org/3/library/stdtypes.html) 
-  - [Codecademy](https://www.codecademy.com/learn/learn-python-3/): Click to the `Syllabus` tab and complete `Hello World`, `Control Flow`, `Lists`, `Loops`, `Functions`, `Code Challenges`, `Strings`, and `Dictionaries`. You can skip `Modules` for now. 
-
 #}
 
 
