@@ -95,7 +95,7 @@ We will make adjustments to the class schedule depending on students' progress a
 - [Preliminary slides](assets/static/slides0925_prelim.pdf)
 
 #### Homework
-- [Homework 0925 in bCourses](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442761) due Sept. 30.
+- [Homework 0925 in bCourses](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442761) due Oct. 1 (one day extension to Sunday).
 - Optional: [Codecademy: Python 3](https://www.codecademy.com/learn/learn-python-3/): Click to the `Syllabus` tab and complete `Hello World`, `Control Flow`, `Lists`, `Loops`, `Functions`, `Code Challenges`, `Strings`, and `Dictionaries`. You can skip `Modules` for now. 
 - Optional: [Codecademy: Python 2](https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/go-with-the-flow): `Conditionals and Control Flow` in Python 2 is VERY similar to Python 3.
 
