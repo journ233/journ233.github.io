@@ -92,7 +92,7 @@ We will make adjustments to the class schedule depending on students' progress a
 #### Lecture: Control flow
 
 - Remote lecture (Check Slack for Zoom link)
-- [Slides](assets/static/slides092.pdf) | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985)
+- [Slides](assets/static/slides0925.pdf) | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985)
 
 #### Homework
 - [Homework 0925 in bCourses](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442761) due Oct. 1 (one day extension to Sunday).
