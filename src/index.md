@@ -89,9 +89,8 @@ We will make adjustments to the class schedule depending on students' progress a
 <section class="lecture" data-date="2023-09-25">
 
 ###	September 25
-#### Lecture: Control flow
+#### Lecture: Control flow (remote lecture)
 
-- Remote lecture (Check Slack for Zoom link)
 - [Slides](assets/static/slides0925.pdf) | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985)
 
 #### Homework
@@ -99,42 +98,34 @@ We will make adjustments to the class schedule depending on students' progress a
 - Optional: [Codecademy: Python 3](https://www.codecademy.com/learn/learn-python-3/): Click to the `Syllabus` tab and complete `Hello World`, `Control Flow`, `Lists`, `Loops`, `Functions`, `Code Challenges`, `Strings`, and `Dictionaries`. You can skip `Modules` for now. 
 - Optional: [Codecademy: Python 2](https://www.codecademy.com/courses/learn-python/lessons/conditionals--control-flow/exercises/go-with-the-flow): `Conditionals and Control Flow` in Python 2 is VERY similar to Python 3.
 
-{#
-
-- [Magic sync button](sync/)
-- [Lecture recording on bCourses](https://bcourses.berkeley.edu/courses/1512503/external_tools/78985)
-
-#### Reading
-- Read [5.3. Tuples and Sequences](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
-- Optional
-  - The mandatory reading is on the tuples section (specifically 5.3). But the entirety of [Section 5](https://docs.python.org/3/tutorial/datastructures.html) covers what we learned in this week's lecture, so it could be good to review. 
-  - Python's [built-in methods for various types](https://docs.python.org/3/library/stdtypes.html) 
-#}
-
 
 </section>
 
 <section class="lecture" data-date="2023-10-02">
 
 ###	October 2
-#### Lecture: Wrapping up Python
+#### Lecture: Control flow review
 
-{#
+Maybe `Wrapping up the basics` if we have time.
 
-- [Slides](assets/static/slides1003.pdf)
-- [Magic sync button](sync/): get answers for Homework 0926 and code from today's lecture
-- [Lecture recording on bCourses](https://bcourses.berkeley.edu/courses/1512503/external_tools/78985)
-
-Next Monday is Indigenous People's Day, and there will be no lecture.
+- [Preliminary slides](assets/static/slides1002_prelim.pdf) {# | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985)#}
+- If there's enough time to cover `Wrapping up the basics`, download [lecture1002.ipynb](assets/static/lecture1002.ipynb).
+- Next Monday is Indigenous People's Day, and there will be no lecture.
 
 #### Homework
-
-- [Homework 1003 in bCourses](https://bcourses.berkeley.edu/courses/1512503/quizzes/2411384) due Oct. 15 (you get an extra week)
+- You can re-submit [Homework 0925](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442761) by Oct. 14 for a new grade. (But the FizzBuzz question will no longer have the extra credit component, consider it part of the assignment. You will also not get extra credit for telling me how much time J233 took.)
+- `Homework 1002` will be posted on Oct. 4 and due by Oct. 14. The contents will depend on how far we get during lecture.
+- Schedule office hours with me anytime through Oct. 13 on [Calendly](https://calendly.com/soooh/j233-final-project-chat) to have a loose chat about your final project. (Do not use my regular office hours link.) This is a graded assignment.
 - Read [The CARE Principles for Indigenous Data Governance](https://datascience.codata.org/articles/10.5334/dsj-2020-043/)
 - Optional: Codecademy has free [Python Cheat Sheets](https://www.codecademy.com/learn/paths/learn-python-3/tracks/learn-python-3/modules/learn-python3-hello-world/cheatsheet) - skip `Modules`, `Files`, and `Classes`
 
+{#
+- Read [5.3. Tuples and Sequences](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
+- Optional
+  - The mandatory reading is on the tuples section (specifically 5.3). But the entirety of [Section 5](https://docs.python.org/3/tutorial/datastructures.html) covers what we learned in this week's lecture, so it could be good to review. 
+  - Python's [built-in methods for various types](https://docs.python.org/3/library/stdtypes.html) 
+- [Homework 1003 in bCourses](https://bcourses.berkeley.edu/courses/1512503/quizzes/2411384) due Oct. 15 (you get an extra week)
 #}
-
 
 </section>
 
@@ -142,7 +133,6 @@ Next Monday is Indigenous People's Day, and there will be no lecture.
 
 ###	October 9
 #### No lecture: Indigenous People's Day
-
 
 </section>
 
@@ -152,7 +142,6 @@ Next Monday is Indigenous People's Day, and there will be no lecture.
 #### Lecture: Intro to pandas
 
 {#
-
 
 - [Lecture recording on bCourses](https://bcourses.berkeley.edu/courses/1512503/external_tools/78985)
 - [Magic sync button](sync/): get answers for [Homework 1003](https://github.com/journ233/j233-files/blob/main/homework1003answers.ipynb) and [notebook for today's lecture](https://github.com/journ233/j233-files/blob/main/lecture1017_pandas_pt1.ipynb)
