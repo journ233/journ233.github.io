@@ -106,10 +106,7 @@ We will make adjustments to the class schedule depending on students' progress a
 ###	October 2
 #### Lecture: Control flow review
 
-Maybe `Wrapping up the basics` if we have time.
-
-- [Preliminary slides](assets/static/slides1002_prelim.pdf) {# | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985)#}
-- If there's enough time to cover `Wrapping up the basics`, download [lecture1002.ipynb](assets/static/lecture1002.ipynb).
+- [Slides](assets/static/slides1002.pdf) | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) 
 - Next Monday is Indigenous People's Day, and there will be no lecture.
 
 #### Homework
@@ -147,7 +144,6 @@ Maybe `Wrapping up the basics` if we have time.
 - [Magic sync button](sync/): get answers for [Homework 1003](https://github.com/journ233/j233-files/blob/main/homework1003answers.ipynb) and [notebook for today's lecture](https://github.com/journ233/j233-files/blob/main/lecture1017_pandas_pt1.ipynb)
 
 #### Homework
-- [Homework 1017 in bCourses](https://bcourses.berkeley.edu/courses/1512503/quizzes/2412047) due Oct. 22
 - [Anonymous feedback survey](https://bcourses.berkeley.edu/courses/1512503/quizzes/2411801)
 - Optional: [Codecademy: Learn Data Analysis with Pandas](https://www.codecademy.com/learn/data-processing-pandas) 
 
@@ -162,6 +158,7 @@ Maybe `Wrapping up the basics` if we have time.
 #### Lecture: More pandas, with Altair
 
 {#
+- If there's enough time to cover `Wrapping up the basics`, download [lecture1002.ipynb](assets/static/lecture1002.ipynb).
 
 - [Lecture recording on bCourses](https://bcourses.berkeley.edu/courses/1512503/external_tools/78985)
 - [Magic sync button](sync/): [Notebook for today's lecture](https://github.com/journ233/j233-files/blob/main/lecture1024_pandas_pt2.ipynb)
