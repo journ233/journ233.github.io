@@ -111,7 +111,7 @@ We will make adjustments to the class schedule depending on students' progress a
 
 #### Homework
 - You can re-submit [Homework 0925](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442761) by Oct. 14 for a new grade. (But there will be no extra credit given. The FizzBuzz question will no longer have the extra credit component — consider it part of the assignment. You will not get extra credit for writing tests, but you won't lose points if you don't write them. You will also not get extra credit for telling me how much time J233 took.)
-- `Homework 1002` will be posted on Oct. 4 and due by Oct. 14. The contents will depend on how far we get during lecture.
+- [Homework 1004](https://bcourses.berkeley.edu/courses/1525907/quizzes/2445338) is due Oct. 14.
 - Schedule office hours with me anytime through Oct. 13 on [Calendly](https://calendly.com/soooh/j233-final-project-chat) to have a loose chat about your final project. (Do not use my regular office hours link.) This is a graded assignment.
 - Read [The CARE Principles for Indigenous Data Governance](https://datascience.codata.org/articles/10.5334/dsj-2020-043/)
 - Optional: Codecademy has free [Python Cheat Sheets](https://www.codecademy.com/learn/paths/learn-python-3/tracks/learn-python-3/modules/learn-python3-hello-world/cheatsheet) - skip `Modules`, `Files`, and `Classes`
