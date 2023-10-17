@@ -116,14 +116,6 @@ We will make adjustments to the class schedule depending on students' progress a
 - Read [The CARE Principles for Indigenous Data Governance](https://datascience.codata.org/articles/10.5334/dsj-2020-043/)
 - Optional: Codecademy has free [Python Cheat Sheets](https://www.codecademy.com/learn/paths/learn-python-3/tracks/learn-python-3/modules/learn-python3-hello-world/cheatsheet) - skip `Modules`, `Files`, and `Classes`
 
-{#
-- Read [5.3. Tuples and Sequences](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
-- Optional
-  - The mandatory reading is on the tuples section (specifically 5.3). But the entirety of [Section 5](https://docs.python.org/3/tutorial/datastructures.html) covers what we learned in this week's lecture, so it could be good to review. 
-  - Python's [built-in methods for various types](https://docs.python.org/3/library/stdtypes.html) 
-- [Homework 1003 in bCourses](https://bcourses.berkeley.edu/courses/1512503/quizzes/2411384) due Oct. 15 (you get an extra week)
-#}
-
 </section>
 
 <section class="lecture" data-date="2023-10-09">
@@ -136,26 +128,24 @@ We will make adjustments to the class schedule depending on students' progress a
 <section class="lecture" data-date="2023-10-16">
 
 ###	October 16
-#### Lecture: Intro to pandas
 
-{#
-
-- [Lecture recording on bCourses](https://bcourses.berkeley.edu/courses/1512503/external_tools/78985)
-- [Magic sync button](sync/): get answers for [Homework 1003](https://github.com/journ233/j233-files/blob/main/homework1003answers.ipynb) and [notebook for today's lecture](https://github.com/journ233/j233-files/blob/main/lecture1017_pandas_pt1.ipynb)
+#### Lecture: Control flow review + Python wrap
+- [Preliminary slides](assets/static/slides1016_prelim.pdf) {# | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) #}
+- In-class downloads (to open in Jupyter Desktop): 
+  - [hw0925_answers.ipynb](assets/static/hw0925_answers.ipynb)
+  - [lecture1016.ipynb](assets/static/lecture1016.ipynb)
 
 #### Homework
-- [Anonymous feedback survey](https://bcourses.berkeley.edu/courses/1512503/quizzes/2411801)
-- Optional: [Codecademy: Learn Data Analysis with Pandas](https://www.codecademy.com/learn/data-processing-pandas) 
-
-#}
-
+- Read [The GNU Manifesto Turns Thirty](assets/static/gnu_manifesto_turns_thirty.pdf) (from 2015) and [The CARE Principles for Indigenous Data Governance](https://datascience.codata.org/articles/10.5334/dsj-2020-043/)
+- [Homework 1016](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442764) in bCourses due Oct. 21.
+- Extra credit: [Anonymous midterm survey](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442757) in bCourses due Oct. 21.
 
 </section>
 
 <section class="lecture" data-date="2023-10-23">
 
 ###	October 23
-#### Lecture: More pandas, with Altair
+#### Lecture: Intro to pandas
 
 {#
 - If there's enough time to cover `Wrapping up the basics`, download [lecture1002.ipynb](assets/static/lecture1002.ipynb).
@@ -167,6 +157,7 @@ We will make adjustments to the class schedule depending on students' progress a
   - [data.census.gov](https://data.census.gov)
   - [fred.stlouisfed.org](https://fred.stlouisfed.org)
   - [bls.gov](https://bls.gov)
+- Optional: [Codecademy: Learn Data Analysis with Pandas](https://www.codecademy.com/learn/data-processing-pandas) 
 
 
 #### Homework
@@ -174,12 +165,22 @@ We will make adjustments to the class schedule depending on students' progress a
 #}
 
 
+{#
+- Read [5.3. Tuples and Sequences](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
+- Optional
+  - The mandatory reading is on the tuples section (specifically 5.3). But the entirety of [Section 5](https://docs.python.org/3/tutorial/datastructures.html) covers what we learned in this week's lecture, so it could be good to review. 
+  - Python's [built-in methods for various types](https://docs.python.org/3/library/stdtypes.html) 
+- [Homework 1003 in bCourses](https://bcourses.berkeley.edu/courses/1512503/quizzes/2411384) due Oct. 15 (you get an extra week)
+- Get answers for [Homework 1003](https://github.com/journ233/j233-files/blob/main/homework1003answers.ipynb) and [notebook for today's lecture](https://github.com/journ233/j233-files/blob/main/lecture1017_pandas_pt1.ipynb)
+
+#}
+
 </section>
 
 <section class="lecture" data-date="2023-10-30">
 
 ###	October 30
-#### Lecture: Even more pandas and Altair; regular expressions and string cleaning
+#### Lecture: More pandas, with Altair
 
 {#
 - [Magic sync button](sync/): Multiple notebooks for this lecture!
@@ -196,7 +197,7 @@ We will make adjustments to the class schedule depending on students' progress a
 <section class="lecture" data-date="2023-11-06">
 
 ###	November 6
-#### Lecture: Unix/Terminal
+#### Lecture: Even more pandas and Altair; regular expressions and string cleaning
 
 {#
 
@@ -218,7 +219,7 @@ We will make adjustments to the class schedule depending on students' progress a
 <section class="lecture" data-date="2023-11-13">
 
 ###	November 13
-#### Lecture: GitHub Desktop
+#### Lecture: Geocoding and mapping
 
 
 
@@ -227,7 +228,7 @@ We will make adjustments to the class schedule depending on students' progress a
 <section class="lecture" data-date="2023-11-20">
 
 ###	November 20
-#### Lecture: TBD
+#### Lecture: Unix/Terminal/GitHub Desktop
 
 {#
 - [Lecture slides](assets/static/slides1121.pdf)
@@ -239,10 +240,11 @@ We will make adjustments to the class schedule depending on students' progress a
 <section class="lecture" data-date="2023-11-27">
 
 ###	November 27
-#### Lecture TBD
+#### Study Hall
+
+- Study Hall. Work on your final project in class. Ask questions in person.
 
 {#
-- Study Hall. Work on your final project in class. Ask questions in person.
 - Impromptu lesson on using GIS data, [the clip is on bCourses](https://bcourses.berkeley.edu/courses/1512503/external_tools/78985).
 #}
 
