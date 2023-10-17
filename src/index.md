@@ -130,15 +130,15 @@ We will make adjustments to the class schedule depending on students' progress a
 ###	October 16
 
 #### Lecture: Control flow review + Python wrap
-- [Preliminary slides](assets/static/slides1016_prelim.pdf) {# | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) #}
+- [Slides](assets/static/slides1016.pdf) | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) 
 - In-class downloads (to open in Jupyter Desktop): 
   - [hw0925_answers.ipynb](assets/static/hw0925_answers.ipynb)
   - [lecture1016.ipynb](assets/static/lecture1016.ipynb)
 
 #### Homework
 - Read [The GNU Manifesto Turns Thirty](assets/static/gnu_manifesto_turns_thirty.pdf) (from 2015) and [The CARE Principles for Indigenous Data Governance](https://datascience.codata.org/articles/10.5334/dsj-2020-043/)
-- [Homework 1016](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442764) in bCourses due Oct. 21.
-- Extra credit: [Anonymous midterm survey](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442757) in bCourses due Oct. 21.
+- [Homework 1016](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442764) in bCourses due Oct. 22.
+- Extra credit: [Anonymous midterm survey](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442757) in bCourses due Oct. 22.
 
 </section>
 
