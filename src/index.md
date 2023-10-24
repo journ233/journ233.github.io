@@ -136,7 +136,7 @@ We will make adjustments to the class schedule depending on students' progress a
   - [lecture1016.ipynb](assets/static/lecture1016.ipynb)
 
 #### Homework
-- Read [The GNU Manifesto Turns Thirty](assets/static/gnu_manifesto_turns_thirty.pdf) (from 2015) and [The CARE Principles for Indigenous Data Governance](https://datascience.codata.org/articles/10.5334/dsj-2020-043/)
+- Read [The GNU Manifesto Turns Thirty](assets/static/gnu_manifesto_turns_thirty.pdf) (2015) and [The CARE Principles for Indigenous Data Governance](https://datascience.codata.org/articles/10.5334/dsj-2020-043/) (2020)
 - [Homework 1016](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442764) in bCourses due Oct. 22.
 - Extra credit: [Anonymous midterm survey](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442757) in bCourses due Oct. 22.
 
@@ -147,33 +147,19 @@ We will make adjustments to the class schedule depending on students' progress a
 ###	October 23
 #### Lecture: Intro to pandas
 
-{#
-- If there's enough time to cover `Wrapping up the basics`, download [lecture1002.ipynb](assets/static/lecture1002.ipynb).
-
-- [Lecture recording on bCourses](https://bcourses.berkeley.edu/courses/1512503/external_tools/78985)
-- [Magic sync button](sync/): [Notebook for today's lecture](https://github.com/journ233/j233-files/blob/main/lecture1024_pandas_pt2.ipynb)
-- [Fill out survey](https://docs.google.com/forms/d/e/1FAIpQLSf5CWK9ApE8WGCmR-ijrQoUIDwFjK4rbw_1BLPVQc__sLr4Wg/viewform) (there was a mistake in Canvas!)
-- Data sources I like:
-  - [data.census.gov](https://data.census.gov)
-  - [fred.stlouisfed.org](https://fred.stlouisfed.org)
-  - [bls.gov](https://bls.gov)
-- Optional: [Codecademy: Learn Data Analysis with Pandas](https://www.codecademy.com/learn/data-processing-pandas) 
-
+- [Preliminary slides](assets/static/slides1023_prelim.pdf) {# | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985)  #}
+- In-class downloads (in order of discussion)
+  - [hw1016_answers.ipynb](assets/static/hw1016_answers.ipynb)
+  - [lecture1023.ipynb](assets/static/lecture1023.ipynb)
+  - [hw1023.ipynb](assets/static/hw1023.ipynb)
 
 #### Homework
-- [Homework 1024 in bCourses](https://bcourses.berkeley.edu/courses/1512503/quizzes/2412446) due Oct. 30 (you get an extra day!)
-#}
+- [Homework 1023](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442768) in bCourses due Oct. 29.
+- Optional Codecademy courses (free!!): 
+  - [Getting Started with Python for Data Science)](https://www.codecademy.com/learn/getting-started-with-python-for-data-science) 
+  - [Python for Data Science: Working with Data](https://www.codecademy.com/learn/python-for-data-science-working-with-data)
+  - Check out the [other free options on Codecademy](https://www.codecademy.com/catalog/language/python) (check the "Free" box on the lefthand menu)
 
-
-{#
-- Read [5.3. Tuples and Sequences](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
-- Optional
-  - The mandatory reading is on the tuples section (specifically 5.3). But the entirety of [Section 5](https://docs.python.org/3/tutorial/datastructures.html) covers what we learned in this week's lecture, so it could be good to review. 
-  - Python's [built-in methods for various types](https://docs.python.org/3/library/stdtypes.html) 
-- [Homework 1003 in bCourses](https://bcourses.berkeley.edu/courses/1512503/quizzes/2411384) due Oct. 15 (you get an extra week)
-- Get answers for [Homework 1003](https://github.com/journ233/j233-files/blob/main/homework1003answers.ipynb) and [notebook for today's lecture](https://github.com/journ233/j233-files/blob/main/lecture1017_pandas_pt1.ipynb)
-
-#}
 
 </section>
 
@@ -192,6 +178,14 @@ We will make adjustments to the class schedule depending on students' progress a
 #}
 
 
+{#
+
+ - Data sources I like:
+  - [data.census.gov](https://data.census.gov)
+  - [fred.stlouisfed.org](https://fred.stlouisfed.org)
+  - [bls.gov](https://bls.gov)
+
+#}
 </section>
 
 <section class="lecture" data-date="2023-11-06">
