@@ -147,7 +147,7 @@ We will make adjustments to the class schedule depending on students' progress a
 ###	October 23
 #### Lecture: Intro to pandas
 
-- [Preliminary slides](assets/static/slides1023_prelim.pdf) {# | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985)  #}
+- [Slides](assets/static/slides1023.pdf) | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) 
 - In-class downloads (in order of discussion)
   - [hw1016_answers.ipynb](assets/static/hw1016_answers.ipynb)
   - [lecture1023.ipynb](assets/static/lecture1023.ipynb)
@@ -215,8 +215,6 @@ We will make adjustments to the class schedule depending on students' progress a
 ###	November 13
 #### Lecture: Geocoding and mapping
 
-
-
 </section>
 
 <section class="lecture" data-date="2023-11-20">
@@ -236,7 +234,7 @@ We will make adjustments to the class schedule depending on students' progress a
 ###	November 27
 #### Study Hall
 
-- Study Hall. Work on your final project in class. Ask questions in person.
+- Study Hall. Work on your final project in class. Ask questions in person. There will be food!
 
 {#
 - Impromptu lesson on using GIS data, [the clip is on bCourses](https://bcourses.berkeley.edu/courses/1512503/external_tools/78985).
