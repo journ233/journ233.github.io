@@ -168,24 +168,16 @@ We will make adjustments to the class schedule depending on students' progress a
 ###	October 30
 #### Lecture: More pandas, with Altair
 
-{#
-- [Magic sync button](sync/): Multiple notebooks for this lecture!
+- [Preliminary slides](assets/static/slides1030_prelim.pdf)  {# | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) #}
+- [lecture1030.ipynb](assets/static/lecture1030.ipynb)
 
 #### Homework
-- [Homework 1031 in bCourses](https://bcourses.berkeley.edu/courses/1512503/quizzes/2412770) due  Nov. 6 (you get an extra day!). If you turn it in by Nov. 5 at 11:59 pm, I will have it graded for you by the following class. For those who wait until Nov. 6, you will not have your grades ready until the weekend.
-- Optional: Go through tutorials on [RegexOne](https://regexone.com/)
-- Optional: [Codecademy's free lecture on regular expressions](https://www.codecademy.com/learn/introduction-to-regular-expressions)
-#}
+- [Homework 1030 in bCourses](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442762) due  Nov. 5.
 
+Optional: Next week, we'll talk about regular expressions. If you'd like to get ahead of lecture, you can review these links:
+- Go through tutorials on [RegexOne](https://regexone.com/)
+- [Codecademy's free tutorial on regular expressions](https://www.codecademy.com/learn/introduction-to-regular-expressions)
 
-{#
-
- - Data sources I like:
-  - [data.census.gov](https://data.census.gov)
-  - [fred.stlouisfed.org](https://fred.stlouisfed.org)
-  - [bls.gov](https://bls.gov)
-
-#}
 </section>
 
 <section class="lecture" data-date="2023-11-06">
@@ -194,17 +186,12 @@ We will make adjustments to the class schedule depending on students' progress a
 #### Lecture: Even more pandas and Altair; regular expressions and string cleaning
 
 {#
-
-
-- [Lecture recording on bCourses](https://bcourses.berkeley.edu/courses/1512503/external_tools/78985)
-- [Lecture slides](assets/static/slides1107.pdf)
-- [Magic sync button](sync/): Multiple notebooks for this lecture!
-- Open up your Terminal, paste in <code>xcode-select --install</code>, and hit Enter.
-
+- [Preliminary slides](TK) | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) 
+- In-class downloads (in order of discussion)
+  - TK
 
 #### Homework
-- [Homework 1107 in bCourses](https://bcourses.berkeley.edu/courses/1512503/quizzes/2413075) due Nov. 13. If you turn it in by Nov. 12 at 11:59 pm, I will have it graded for you by the following class. For those who wait until Nov. 13, you will not have your grades ready until the weekend.
-- Work on your final project
+- TK
 #}
 
 
@@ -215,6 +202,15 @@ We will make adjustments to the class schedule depending on students' progress a
 ###	November 13
 #### Lecture: Geocoding and mapping
 
+{#
+- [Preliminary slides](TK) | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) 
+- In-class downloads (in order of discussion)
+  - TK
+
+#### Homework
+- TK
+#}
+
 </section>
 
 <section class="lecture" data-date="2023-11-20">
@@ -224,6 +220,16 @@ We will make adjustments to the class schedule depending on students' progress a
 
 {#
 - [Lecture slides](assets/static/slides1121.pdf)
+#}
+
+
+{#
+- [Preliminary slides](TK) | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) 
+- In-class downloads (in order of discussion)
+  - TK
+
+#### Homework
+- TK
 #}
 
 
@@ -265,7 +271,6 @@ We will make adjustments to the class schedule depending on students' progress a
 
 ###	December 11
 #### Final projects due
-
 
 </section>
 
