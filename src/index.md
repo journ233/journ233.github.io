@@ -168,8 +168,9 @@ We will make adjustments to the class schedule depending on students' progress a
 ###	October 30
 #### Lecture: More pandas, with Altair
 
-- [Preliminary slides](assets/static/slides1030_prelim.pdf)  {# | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) #}
+- [Slides](assets/static/slides1030.pdf)  | [Recordings](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985)
 - [lecture1030.ipynb](assets/static/lecture1030.ipynb)
+  - By request, here's the notebook from class where I added more code in real-time, but do not have explanations in Markdown: [lecture1030_realtime.ipynb](assets/static/lecture1030_realtime.ipynb). (Watch the class recordings in conjunction with this notebook.)
 
 #### Homework
 - [Homework 1030 in bCourses](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442762) due  Nov. 5.
