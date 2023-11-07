@@ -186,15 +186,16 @@ Optional: Next week, we'll talk about regular expressions. If you'd like to get 
 ###	November 6
 #### Lecture: Even more pandas and Altair; regular expressions and string cleaning
 
-{#
-- [Preliminary slides](TK) | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) 
+- [Preliminary slides](assets/static/slides1106_prelim.pdf) 
 - In-class downloads (in order of discussion)
-  - TK
+  - [lecture1106.zip](assets/static/lecture1106.zip)
 
-#### Homework
-- TK
+{#
+| [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) 
 #}
 
+#### Homework
+- [Homework 1106 in bCourses](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442756) due Nov. 12.
 
 </section>
 
