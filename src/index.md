@@ -186,13 +186,12 @@ Optional: Next week, we'll talk about regular expressions. If you'd like to get 
 ###	November 6
 #### Lecture: Even more pandas and Altair; regular expressions and string cleaning
 
-- [Preliminary slides](assets/static/slides1106_prelim.pdf) 
+- [Slides](assets/static/slides1106.pdf) | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) 
 - In-class downloads (in order of discussion)
-  - [lecture1106.zip](assets/static/lecture1106.zip)
+  - [lecture1106.zip](assets/static/lecture1106.zip) 
+  - By request, here are the notebooks from class where I added more code in real-time, but do not have explanations in Markdown: [lecture1106_realtime.zip](assets/static/lecture1106_realtime.zip). (Watch the class recordings in conjunction with this notebook.)
+  
 
-{#
-| [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) 
-#}
 
 #### Homework
 - [Homework 1106 in bCourses](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442756) due Nov. 12.
