@@ -201,19 +201,14 @@ Optional: Next week, we'll talk about regular expressions. If you'd like to get 
 <section class="lecture" data-date="2023-11-13">
 
 ###	November 13
-#### Lecture: Geocoding and mapping
+#### Lecture: Geocoding and mapping 
 
-
-- [Preliminary slides](assets/static/slides1113_prelim.pdf) 
+- [Slides](assets/static/slides1113.pdf)  | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) 
+- Check Slack for Jupyter notebooks
 
 #### Homework
 - Work on your final project
 
-{#| [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) 
-- In-class downloads (in order of discussion)
-  - TK
-- TK
-#}
 
 </section>
 
