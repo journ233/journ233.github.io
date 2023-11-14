@@ -203,12 +203,15 @@ Optional: Next week, we'll talk about regular expressions. If you'd like to get 
 ###	November 13
 #### Lecture: Geocoding and mapping
 
-{#
-- [Preliminary slides](TK) | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) 
-- In-class downloads (in order of discussion)
-  - TK
+
+- [Preliminary slides](assets/static/slides1113_prelim.pdf) 
 
 #### Homework
+- Work on your final project
+
+{#| [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) 
+- In-class downloads (in order of discussion)
+  - TK
 - TK
 #}
 
@@ -217,7 +220,7 @@ Optional: Next week, we'll talk about regular expressions. If you'd like to get 
 <section class="lecture" data-date="2023-11-20">
 
 ###	November 20
-#### Lecture: Unix/Terminal/GitHub Desktop
+#### Lecture: Study Hall / install party 
 
 {#
 - [Lecture slides](assets/static/slides1121.pdf)
@@ -239,7 +242,7 @@ Optional: Next week, we'll talk about regular expressions. If you'd like to get 
 <section class="lecture" data-date="2023-11-27">
 
 ###	November 27
-#### Study Hall
+#### Unix/Terminal/GitHub Desktop
 
 - Study Hall. Work on your final project in class. Ask questions in person. There will be food!
 
