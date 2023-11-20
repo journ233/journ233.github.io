@@ -216,6 +216,7 @@ Optional: Next week, we'll talk about regular expressions. If you'd like to get 
 
 ###	November 20
 #### Lecture: Study Hall / install party 
+- Study Hall. We'll install some stuff for next week's lecture. Work on your final project in class. Ask questions in person. There will be food!
 
 {#
 - [Lecture slides](assets/static/slides1121.pdf)
@@ -238,13 +239,6 @@ Optional: Next week, we'll talk about regular expressions. If you'd like to get 
 
 ###	November 27
 #### Unix/Terminal/GitHub Desktop
-
-- Study Hall. Work on your final project in class. Ask questions in person. There will be food!
-
-{#
-- Impromptu lesson on using GIS data, [the clip is on bCourses](https://bcourses.berkeley.edu/courses/1512503/external_tools/78985).
-#}
-
 
 </section>
 
