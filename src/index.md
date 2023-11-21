@@ -216,12 +216,14 @@ Optional: Next week, we'll talk about regular expressions. If you'd like to get 
 
 ###	November 20
 #### Lecture: Study Hall / install party 
+
 - Study Hall. We'll install some stuff for next week's lecture. Work on your final project in class. Ask questions in person. There will be food!
+- [Lecture slides](assets/static/slides1120_prelim.pdf)
+  - [Mapping repo](https://github.com/journ233/mapping)
 
-{#
-- [Lecture slides](assets/static/slides1121.pdf)
-#}
 
+#### Homework
+- Work on your final project
 
 {#
 - [Preliminary slides](TK) | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) 
