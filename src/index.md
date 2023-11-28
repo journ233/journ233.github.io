@@ -218,21 +218,12 @@ Optional: Next week, we'll talk about regular expressions. If you'd like to get 
 #### Lecture: Study Hall / install party 
 
 - Study Hall. We'll install some stuff for next week's lecture. Work on your final project in class. Ask questions in person. There will be food!
-- [Lecture slides](assets/static/slides1120_prelim.pdf)
+- [Preliminary slides](assets/static/slides1120_prelim.pdf)
   - [Mapping repo](https://github.com/journ233/mapping)
 
 
 #### Homework
 - Work on your final project
-
-{#
-- [Preliminary slides](TK) | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) 
-- In-class downloads (in order of discussion)
-  - TK
-
-#### Homework
-- TK
-#}
 
 
 </section>
@@ -241,6 +232,15 @@ Optional: Next week, we'll talk about regular expressions. If you'd like to get 
 
 ###	November 27
 #### Unix/Terminal/GitHub Desktop
+
+
+- [Preliminary slides](assets/static/slides1127_prelim.pdf) {# | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) #}
+- In-class downloads
+  - [lecture1127.zip](assets/static/lecture1127.zip)
+
+#### Homework
+- [Final presentations](https://bcourses.berkeley.edu/courses/1525907/assignments/8672190) are next week (your project does not have to be done)
+- Work on your [final project notebooks](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442766)
 
 </section>
 
