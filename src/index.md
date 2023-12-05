@@ -249,9 +249,7 @@ Optional: Next week, we'll talk about regular expressions. If you'd like to get 
 ###	December 4
 #### Lecture: Final presentations
 
-- [Final presentations](https://bcourses.berkeley.edu/courses/1525907/assignments/8672190) are next week (your project does not have to be done)
-
-#### Assignments
+- [Final presentations](https://bcourses.berkeley.edu/courses/1525907/assignments/8672190)
 
 </section>
 
