@@ -234,7 +234,7 @@ Optional: Next week, we'll talk about regular expressions. If you'd like to get 
 #### Unix/Terminal/GitHub Desktop
 
 
-- [Preliminary slides](assets/static/slides1127_prelim.pdf) {# | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985) #}
+- [Slides](assets/static/slides1127.pdf) | [Recording](https://bcourses.berkeley.edu/courses/1525907/external_tools/78985)
 - In-class downloads
   - [lecture1127.zip](assets/static/lecture1127.zip)
 
@@ -248,24 +248,19 @@ Optional: Next week, we'll talk about regular expressions. If you'd like to get 
 
 ###	December 4
 #### Lecture: Final presentations
-{#
 
-- [Lecture recording on bCourses](https://bcourses.berkeley.edu/courses/1512503/external_tools/78985)
-- [Geocoding and mapping notebooks](https://github.com/journ233/j233-files/tree/main/lecture1205)
+- [Final presentations](https://bcourses.berkeley.edu/courses/1525907/assignments/8672190) are next week (your project does not have to be done)
 
 #### Assignments
-- Due Dec. 6: [Final presentations recorded on bCourses](https://bcourses.berkeley.edu/courses/1512503/assignments/8523419)
-- Due Dec. 10: [Written feedback on final presentations](https://bcourses.berkeley.edu/courses/1512503/quizzes/2414320)
-- Due Dec. 16: [Final project](https://bcourses.berkeley.edu/courses/1512503/quizzes/2414365)
-#}
-
 
 </section>
 
 <section class="lecture" data-date="2023-12-11">
 
-###	December 11
+###	December 13
 #### Final projects due
+
+- Due 9 a.m. [Final project notebooks](https://bcourses.berkeley.edu/courses/1525907/quizzes/2442766)
 
 </section>
 
